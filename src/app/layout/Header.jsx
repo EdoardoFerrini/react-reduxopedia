@@ -1,5 +1,5 @@
 import React from 'react'
-import logo from "../images/logo512.png"
+import logo from "../../images/logo512.png"
 function Header() {
   return (
     <div className='pt-3 pl-2'>
